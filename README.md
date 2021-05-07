@@ -1,2 +1,3 @@
-# Git
- GitPrimeiro
+# Gitizinho
+Criação e alteração para atualização
+ GitPrimeiro primeirinho
